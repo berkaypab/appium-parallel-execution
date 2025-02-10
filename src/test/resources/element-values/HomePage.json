@@ -1,0 +1,27 @@
+[
+  {
+    "key": "Test_Header",
+    "androidValue": "//android.widget.ImageButton[@content-desc='Open navigation drawer']/following-sibling::android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "test2_Header",
+    "androidValue": "//android.widget.ImageButton[@content-desc='Open navigation drawer']/following-sibling::android.widget.TextView",
+    "androidType": "accessibilityId"
+  },
+  {
+    "key": "test3_Header",
+    "androidValue": "//android.widget.ImageButton[@content-desc='Open navigation drawer']/following-sibling::android.widget.TextView",
+    "androidType": "class"
+  },
+  {
+    "key": "test4_Header",
+    "androidValue": "//android.widget.ImageButton[@content-desc='Open navigation drawer']/following-sibling::android.widget.TextView",
+    "androidType": "text"
+  },
+  {
+    "key": "test5_Header",
+    "androidValue": "//android.widget.ImageButton[@content-desc='Open navigation drawer']/following-sibling::android.widget.TextView",
+    "androidType": "id"
+  }
+]
